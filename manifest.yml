@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
-  name: tc-tulin-01hw
-  host: tc-tulin-01hw
+  domain: eu-gb.mybluemix.net
+  name: sky-bluemix-starter-2
+  host: sky-bluemix-starter-2
   disk_quota: 1024M
